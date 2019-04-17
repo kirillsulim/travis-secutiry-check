@@ -1,3 +1,3 @@
 # travis-secutiry-check
 
-trigger build
+trigger build 2
